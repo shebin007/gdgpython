@@ -1,2 +1,4 @@
-print "Python program to reverse a list Removing Duplicates "
+print "hello Gdg  "
+print "this for GDG"
+
 
