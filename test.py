@@ -1,4 +1,6 @@
-print "hello Gdg  "
-print "this for GDG"
+#Print in python
+
+print "Hello GDG  "
+print "This is for YOU"
 
 
